@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    exercism-ruby (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.9.0)
+    rake (11.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  exercism-ruby!
+  minitest
+  rake
+
+BUNDLED WITH
+   1.12.5
